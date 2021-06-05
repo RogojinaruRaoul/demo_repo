@@ -4,6 +4,7 @@ public class ExceptionsChecked {
 
 	public static void main(String[] args) throws Exception {
 		System.out.println(circleArea(5));
+		System.out.println("Am schimbat ceva");
 	}
 
 	public static double circleArea(double radius) throws Exception {
